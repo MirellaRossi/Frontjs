@@ -1,6 +1,7 @@
 import './App.scss'
 import Cabecalho from './components/Cabecalho'
 import Rodape from './components/Rodape'
+
 function App() {
   
   

@@ -1,5 +1,9 @@
 footer{
-    background-color: darkgrey;
+    background-color: rgb(226, 226, 226);
+    color: rgb(61, 61, 61);
+    padding: 50px;
+    text-align: center;
+  
 }
 .rod{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
