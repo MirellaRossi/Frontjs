@@ -1,0 +1,10 @@
+/* Aqui criamos diretamente a Class  e a estilização */
+
+.tit{
+    font-size: 1.5em;
+    color: blueviolet;
+}
+
+.btn{
+    color:rgb(0, 0, 0);
+}
