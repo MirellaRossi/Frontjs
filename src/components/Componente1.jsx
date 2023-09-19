@@ -1,3 +1,4 @@
+// Para ser utilizado, importar na App.jsx
 //Importação da página com a estilização
 import style from './Comp1.module.css'
 

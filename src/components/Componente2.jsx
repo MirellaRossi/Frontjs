@@ -1,3 +1,4 @@
+// Para ser utilizado, importar na App.jsx
 import style from './Comp2.module.css'
 
 
